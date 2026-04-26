@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUAo7YY2P7s=",
+  "success": true,
+  "projectFilePath": "/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/CustomTimer.csproj",
+  "expectedPackageFiles": [
+    "/Users/timofejrybalko/.nuget/packages/stylecop.analyzers/1.2.0-beta.556/stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "/Users/timofejrybalko/.nuget/packages/stylecop.analyzers.unstable/1.2.0.556/stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512",
+    "/Users/timofejrybalko/.nuget/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/Users/timofejrybalko/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

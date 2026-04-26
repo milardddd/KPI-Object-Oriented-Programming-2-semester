@@ -1,0 +1,11 @@
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/bin/Debug/net8.0/CustomTimer.deps.json
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/bin/Debug/net8.0/CustomTimer.dll
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/bin/Debug/net8.0/CustomTimer.pdb
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/obj/Debug/net8.0/CustomTimer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/obj/Debug/net8.0/CustomTimer.AssemblyInfoInputs.cache
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/obj/Debug/net8.0/CustomTimer.AssemblyInfo.cs
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/obj/Debug/net8.0/CustomTimer.csproj.CoreCompileInputs.cache
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/obj/Debug/net8.0/CustomTimer.dll
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/obj/Debug/net8.0/refint/CustomTimer.dll
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/obj/Debug/net8.0/CustomTimer.pdb
+/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task6/count-down-timer-with-action-delegate/CustomTimer/obj/Debug/net8.0/ref/CustomTimer.dll
