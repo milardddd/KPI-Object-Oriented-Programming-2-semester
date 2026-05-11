@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TaskPlanner.ConsoleUI/TaskPlanner.ConsoleUI.csproj" />
+  <Project Path="TaskPlanner.Core/TaskPlanner.Core.csproj" />
+</Solution>

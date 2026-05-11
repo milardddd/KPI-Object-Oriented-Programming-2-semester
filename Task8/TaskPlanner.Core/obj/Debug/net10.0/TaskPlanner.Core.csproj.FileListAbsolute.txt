@@ -1,0 +1,12 @@
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/bin/Debug/net10.0/TaskPlanner.Core.deps.json
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/bin/Debug/net10.0/TaskPlanner.Core.dll
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/bin/Debug/net10.0/TaskPlanner.Core.pdb
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/obj/Debug/net10.0/TaskPlanner.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/obj/Debug/net10.0/TaskPlanner.Core.AssemblyInfoInputs.cache
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/obj/Debug/net10.0/TaskPlanner.Core.AssemblyInfo.cs
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/obj/Debug/net10.0/TaskPlanner.Core.csproj.CoreCompileInputs.cache
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/obj/Debug/net10.0/TaskPlanner.Core.sourcelink.json
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/obj/Debug/net10.0/TaskPlanner.Core.dll
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/obj/Debug/net10.0/refint/TaskPlanner.Core.dll
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/obj/Debug/net10.0/TaskPlanner.Core.pdb
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task8/TaskPlanner.Core/obj/Debug/net10.0/ref/TaskPlanner.Core.dll

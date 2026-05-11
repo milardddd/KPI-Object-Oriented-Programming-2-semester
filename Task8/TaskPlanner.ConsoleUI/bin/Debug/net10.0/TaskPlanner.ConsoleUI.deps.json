@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TaskPlanner.ConsoleUI/1.0.0": {
+        "dependencies": {
+          "TaskPlanner.Core": "1.0.0"
+        },
+        "runtime": {
+          "TaskPlanner.ConsoleUI.dll": {}
+        }
+      },
+      "TaskPlanner.Core/1.0.0": {
+        "runtime": {
+          "TaskPlanner.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskPlanner.ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskPlanner.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

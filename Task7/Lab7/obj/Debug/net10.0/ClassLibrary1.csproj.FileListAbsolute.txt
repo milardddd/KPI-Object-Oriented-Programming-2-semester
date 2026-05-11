@@ -9,3 +9,15 @@
 /Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task7/Lab7/obj/Debug/net10.0/refint/ClassLibrary1.dll
 /Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task7/Lab7/obj/Debug/net10.0/ClassLibrary1.pdb
 /Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task7/Lab7/obj/Debug/net10.0/ref/ClassLibrary1.dll
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/bin/Debug/net10.0/ClassLibrary1.deps.json
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/bin/Debug/net10.0/ClassLibrary1.dll
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/bin/Debug/net10.0/ClassLibrary1.pdb
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/obj/Debug/net10.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/obj/Debug/net10.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/obj/Debug/net10.0/ClassLibrary1.AssemblyInfo.cs
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/obj/Debug/net10.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/obj/Debug/net10.0/ClassLibrary1.sourcelink.json
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/obj/Debug/net10.0/ClassLibrary1.dll
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/obj/Debug/net10.0/refint/ClassLibrary1.dll
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/obj/Debug/net10.0/ClassLibrary1.pdb
+/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/obj/Debug/net10.0/ref/ClassLibrary1.dll

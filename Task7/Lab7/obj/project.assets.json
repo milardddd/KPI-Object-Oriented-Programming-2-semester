@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/timofejrybalko/.nuget/packages/": {}
+    "/Users/milardddd/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task7/Lab7/ClassLibrary1.csproj",
+      "projectUniqueName": "/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task7/Lab7/ClassLibrary1.csproj",
-      "packagesPath": "/Users/timofejrybalko/.nuget/packages/",
-      "outputPath": "/Users/timofejrybalko/Desktop/web-projects/KPI/OOP/Task7/Lab7/obj/",
+      "projectPath": "/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/ClassLibrary1.csproj",
+      "packagesPath": "/Users/milardddd/.nuget/packages/",
+      "outputPath": "/Users/milardddd/Desktop/web-projects/KPI/2-Semester/OOP/Task7/Lab7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/timofejrybalko/.nuget/NuGet/NuGet.Config"
+        "/Users/milardddd/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.203/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
